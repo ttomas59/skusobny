@@ -1,0 +1,3 @@
+int metoda(){
+return 2;
+}
