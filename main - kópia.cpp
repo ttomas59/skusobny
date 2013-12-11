@@ -3,6 +3,7 @@ int a=5,b=0;
 for(int i=0;i<a;i++)
 	b++;
 //komentar
+//dalsi komentar
 return 0;
 }
 
